@@ -1,0 +1,23 @@
+[
+    {
+        "title": "dead book",
+        "author": "governor",
+        "year": 1889,
+        "genre": "hdjj",
+        "read": true
+    },
+    {
+        "title": "Artificial Intelligence: A Modern Approach ",
+        "author": " Stuart Russell, Peter Norvig  ",
+        "year": 2020,
+        "genre": "Computer Science ",
+        "read": true
+    },
+    {
+        "title": "arificial intelligence :a modern approach",
+        "author": "stuart russell<peter norving",
+        "year": 2020,
+        "genre": "computer science",
+        "read": true
+    }
+]
